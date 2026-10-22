@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="330" height="50" viewBox="0 0 330 50">
-  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#D93025"/><stop offset="1" stop-color="#F25C4C"/></linearGradient></defs>
-  <rect width="330" height="50" rx="25" fill="url(#g)"/>
-  <rect x="20" y="15" width="26" height="20" rx="4" fill="#fff"/>
-  <path d="M22 18 L33 27 L44 18" fill="none" stroke="#D93025" stroke-width="2.4" stroke-linejoin="round"/>
-  <text x="58" y="31" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#fff">brayanhuincho975@gmail.com</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="40" viewBox="0 0 290 40">
+  <rect width="290" height="40" rx="6" fill="#EA4335"/>
+  <rect x="16" y="12" width="20" height="16" rx="2.5" fill="#fff"/>
+  <path d="M17.5 14 L26 21 L34.5 14" fill="none" stroke="#EA4335" stroke-width="2" stroke-linejoin="round"/>
+  <text x="46" y="25.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#fff">brayanhuincho975@gmail.com</text>
 </svg>

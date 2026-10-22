@@ -1,35 +1,47 @@
-<img src="./assets/header.svg" alt="Jhon Brayan Huincho Quispe — full stack developer" width="100%">
-
-<br>
-
-```text
-Lugar        Huancayo / Lima, Perú
-Hago         SaaS de gestión · apps móviles · backends · integraciones con IA
-Busco        proyectos donde el software mueva un negocio de verdad
-Contacto     brayanhuincho975@gmail.com
-```
-
-### Qué hago
-
-Construyo productos completos de punta a punta: la app móvil, la web de administración y el backend que los conecta, todos con la misma lógica y los mismos datos.
-
-### Con qué trabajo
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,nextjs,react,ts,laravel,php,postgres,mysql,docker,git&perline=12" alt="Flutter, Dart, NestJS, Next.js, React, TypeScript, Laravel, PHP, PostgreSQL, MySQL, Docker, Git">
-</p>
-
-### Cómo trabajo
-
-```diff
-+ Primero entiendo el negocio y después escribo el código
-+ Web, móvil y backend comparten la misma lógica y los mismos datos
-+ Si no llega a producción, no está terminado
-```
-
-<br>
+<img src="./assets/galaxy.svg" alt="Brayan Huincho" width="100%">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhon-brayan-huincho-quispe-95a3a5292">LinkedIn</a> ·
-  <a href="mailto:brayanhuincho975@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/jhon-brayan-huincho-quispe-95a3a5292"><img src="https://img.shields.io/badge/LinkedIn-Jhon_Brayan_Huincho_Quispe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:brayanhuincho975@gmail.com"><img src="https://img.shields.io/badge/brayanhuincho975@gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=ff5ca8" alt="brayanhuincho975@gmail.com"></a>
 </p>
+
+<br>
+
+### 🪐 Qué desarrollo
+
+| | |
+|---|---|
+| 📱 **Apps móviles** | Android e iOS con Flutter |
+| 🖥️ **Sistemas web** | Paneles de administración, portales de clientes, tiendas |
+| ☁️ **SaaS** | Plataformas multiempresa con planes, usuarios y permisos |
+| ⚙️ **APIs y backends** | Servicios con NestJS, Laravel y Node.js |
+| 🤖 **Inteligencia artificial** | Chatbots, agentes e integración con modelos de IA |
+| 📦 **Gestión y ventas** | CRM, inventario, facturación, despachos y reportes |
+
+<br>
+
+### 🛠️ Tecnologías
+
+**Móvil**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" alt="Flutter, Dart, Kotlin, Android Studio">
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vite,html,css" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS, Vite, HTML, CSS">
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,laravel,php,prisma" alt="NestJS, Node.js, Express, Laravel, PHP, Prisma">
+
+**Bases de datos**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase, Supabase">
+
+**Infraestructura y herramientas**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,vercel,git,github,vscode,figma" alt="Docker, Nginx, Linux, Vercel, Git, GitHub, VS Code, Figma">
+
+<br>
+
+<p align="center"><sub>Huancayo · Lima — Perú</sub></p>

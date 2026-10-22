@@ -1,9 +1,9 @@
-<img src="./assets/blackhole.svg" alt="Apps móviles · Sistemas web · SaaS · Inteligencia artificial" width="100%">
+<img src="./assets/header-v2.svg" alt="Apps móviles · Sistemas web · SaaS · Inteligencia artificial" width="100%">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhon-brayan-huincho-quispe-95a3a5292"><img src="./assets/linkedin.svg" height="38" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/jhon-brayan-huincho-quispe-95a3a5292"><img src="./assets/btn-linkedin.svg" height="38" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:brayanhuincho975@gmail.com"><img src="./assets/email.svg" height="38" alt="brayanhuincho975@gmail.com"></a>
+  <a href="mailto:brayanhuincho975@gmail.com"><img src="./assets/btn-email.svg" height="38" alt="brayanhuincho975@gmail.com"></a>
 </p>
 
 <br>

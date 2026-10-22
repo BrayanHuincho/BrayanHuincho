@@ -1,4 +1,4 @@
-<img src="./assets/header-v3.svg" alt="Apps móviles · Sistemas web · SaaS · Inteligencia artificial" width="100%">
+<img src="./assets/header-v4.svg" alt="Apps móviles · Sistemas web · SaaS · Inteligencia artificial" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhon-brayan-huincho-quispe-95a3a5292"><img src="./assets/linkedin-v3.svg" height="38" alt="LinkedIn"></a>
